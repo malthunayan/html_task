@@ -1,0 +1,89 @@
+body {
+	background-color: #66ffcc !important;
+}
+
+.circular--square {
+  border-radius: 50%;
+  border:3px solid rgb(234,78, 82);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.circular--square:hover {
+ 	transform: scale(1.1);
+}
+
+.row {
+	padding: 2%;
+	text-align: center;
+}
+
+.btn {
+	margin-top: 2.5%;
+}
+
+
+.lefttext {
+	text-align: left;
+}
+
+.righttext {
+	text-align: right;
+}
+
+.coded {
+	text-align: center;
+	margin-left: -2.5%;
+}
+
+.marginleft {
+	margin-left: 2.5%;
+}
+
+.graybackground {
+	background-color: rgb(260,260,260);
+	/*margin-bottom: 5%;*/
+}
+
+.blackbackground {
+	background-color: rgb(260,260,260)
+}
+
+li,p {
+	margin-left: 5%;
+	text-align: left;
+}
+
+.margintopbtm {
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+h2 {
+	text-align: left;
+	margin-left: 2.5%;
+	margin-bottom: 2.5%;
+}
+
+.pro {
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.loc {
+	font-style: italic;
+	font-size: 15.5px;
+	color: rgb(64,64,64);
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.red {
+	color: rgb(234,78, 82)
+}
+
+.margin {
+	margin: 1.5%;
+}
